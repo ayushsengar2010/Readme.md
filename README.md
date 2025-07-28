@@ -2,9 +2,7 @@
 <h1 align="center">Hi there, I'm Ayush Sengar 👋</h1>
 <p align="center">A passionate developer & Data Enthusiast who loves building 🚀 and sharing creativity with the community.</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushsengar2010&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsengar2010" />
-</p>
+![Visitor Badge](https://komarev.com/ghpvc/?username=ayushsengar2010&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -61,15 +59,6 @@
 ---
 
 ## 📂 Featured Projects
-
-- 🚀 **MERN Dashboard App** — Full-stack analytics dashboard  
-  🔗 [GitHub Repo](#) • 🌐 [Live Site](#)
-
-- 🤖 **ML Model Deployment** — Flask + Scikit-learn model deployed on Render  
-  🔗 [GitHub Repo](#) • 🌐 [Live Demo](#)
-
-- 📊 **Data Visualizer** — Interactive charts using Python, Pandas, Matplotlib  
-  🔗 [GitHub Repo](#)
 
 ---
 
